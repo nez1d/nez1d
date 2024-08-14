@@ -5,7 +5,7 @@ I'm engaged in full-stack development and write backend using .NET Core. I like 
 
 ### I'm working with:
 * C#
-* Asp.Net Core
+* ASP.NET Core
 * HTML, CSS
 * JavaScript
 * DataBase(MSql, Postgres)
