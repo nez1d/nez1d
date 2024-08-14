@@ -1,16 +1,37 @@
-## Hi there 👋
+```
+ __    __            __  __                  __       __                      __        __  __ 
+|  \  |  \          |  \|  \                |  \  _  |  \                    |  \      |  \|  \
+| $$  | $$  ______  | $$| $$  ______        | $$ / \ | $$  ______    ______  | $$  ____| $$| $$
+| $$__| $$ /      \ | $$| $$ /      \       | $$/  $\| $$ /      \  /      \ | $$ /      $$| $$
+| $$    $$|  $$$$$$\| $$| $$|  $$$$$$\      | $$  $$$\ $$|  $$$$$$\|  $$$$$$\| $$|  $$$$$$$| $$
+| $$$$$$$$| $$    $$| $$| $$| $$  | $$      | $$ $$\$$\$$| $$  | $$| $$   \$$| $$| $$  | $$ \$$
+| $$  | $$| $$$$$$$$| $$| $$| $$__/ $$      | $$$$  \$$$$| $$__/ $$| $$      | $$| $$__| $$ __ 
+| $$  | $$ \$$     \| $$| $$ \$$    $$      | $$$    \$$$ \$$    $$| $$      | $$ \$$    $$|  \
+ \$$   \$$  \$$$$$$$ \$$ \$$  \$$$$$$        \$$      \$$  \$$$$$$  \$$       \$$  \$$$$$$$ \$$
+```
 
-<!--
-**nez1d/nez1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hey :wave:, I'm **Maxim Focusov**
+I'm engaged in full-stack development. I write backend using .NET Core. I like to share my knowledge with others. I am currently interested in web development.
+I'm particularly passionate ASP.NET Core and Web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### I'm working with:
+* C#
+* Asp.Net Core
+* HTML, CSS
+* JavaScript
+* DataBase(MSql, Postgres)
+* Linux
+* Docker
+* Git
+
+---
+
+### You can reach me:
+
+* [Twitter](https://x.com/Renx1ee)
+* [Telegram](https://t.me/Renx1ee)
+* [TouTube](https://www.youtube.com/@nezid6432)
+* [Instagram](instagram.com/nez1d_f)
