@@ -19,5 +19,5 @@ I'm engaged in full-stack development and write backend using .NET Core. I like 
 
 * [Twitter](https://x.com/Renx1ee)
 * [Telegram](https://t.me/Renx1ee)
-* [TouTube](https://www.youtube.com/@nezid6432)
+* [YouTube](https://www.youtube.com/@nezid6432)
 * [Instagram](instagram.com/nez1d_f)
