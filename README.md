@@ -3,18 +3,6 @@ I'm engaged in full-stack development and write backend using .NET Core. I like 
 
 ---
 
-### I'm working with:
-* C#
-* ASP.NET Core
-* HTML, CSS
-* JavaScript
-* DataBase(MSql, Postgres)
-* Linux
-* Docker
-* Git
-
----
-
 ### You can reach me:
 
 * [Twitter](https://x.com/Renx1ee)
