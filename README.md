@@ -1,4 +1,4 @@
-## Hey :wave:, I'm **Maxim Focusov**
+## Hi :wave:, I'm **Maxim Focusov**
 I'm engaged in full-stack development and write backend using .NET Core. I like to share my knowledge with others. I am currently interested in web development.
 
 ---
